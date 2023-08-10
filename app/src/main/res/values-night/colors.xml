@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_nav_item_color">@color/yellow</color>
+    <color name="label_color">@color/white</color>
+    <color name="chapter_name">@color/white</color>
+    <color name="transparent_40">#66000000</color>
+    <color name="counter_box_color">#141A2E</color>
+    <color name="zekr_color">@color/yellow</color>
+
+</resources>

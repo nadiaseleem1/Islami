@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraint_layout_tasbeeh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:background="@drawable/main_background">
+
+    <ImageView
+        android:id="@+id/head_sebha"
+        android:layout_width="73dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/head_of_sebha"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/body_sebha"
+        android:layout_width="232dp"
+        android:layout_height="234dp"
+        android:layout_marginTop="-30dp"
+        android:src="@drawable/body_of_sebha"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head_sebha" />
+
+    <TextView
+        android:id="@+id/tasbeeh_label_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="@string/tasbeeh_counts"
+        android:textColor="@color/label_color"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/body_sebha" />
+
+    <TextView
+        android:id="@+id/counter_tv"
+        android:layout_width="69dp"
+        android:layout_height="81dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/counter_box"
+        android:gravity="center"
+        android:text="0"
+        android:textColor="@color/label_color"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tasbeeh_label_tv" />
+
+    <TextView
+        android:id="@+id/zekr_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/zekr_box"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="@string/zekr"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/counter_tv"
+
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

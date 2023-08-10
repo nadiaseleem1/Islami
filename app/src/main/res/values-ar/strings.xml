@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إسلامي</string>
+    <string name="quran">القرآن الكريم</string>
+    <string name="hadeeth">الأحاديث النبوية</string>
+    <string name="tasbeeh">السبحة</string>
+    <string name="radio">الراديو</string>
+    <string name="chapter_name">اسم السورة</string>
+    <string name="quran_radio_station">إذاعة القرآن الكريم</string>
+    <string name="tasbeeh_counts">عدد التسبيحات</string>
+    <string name="zekr">سبحان الله</string>
+    <string name="allـhadeeth">الأحاديث</string>
+    <string name="hadeeth_number">الحديث رقم </string>
+    <string name="al_fatiha">الفاتحة</string>
+    <string name="aya">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</string>
+    <string name="first_hadeeth">الحديث الأول</string>
+
+
+</resources>

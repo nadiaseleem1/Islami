@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Islami</string>
+    <string name="quran">Quran</string>
+    <string name="hadeeth">Hadeeth</string>
+    <string name="tasbeeh">Tasbeeh</string>
+    <string name="radio">Radio</string>
+    <string name="chapter_name">Chapter Name</string>
+    <string name="quran_radio_station">Quran Radio Station</string>
+    <string name="tasbeeh_counts">Tasbeeh Counts</string>
+    <string name="zekr">سبحان الله</string>
+    <string name="allـhadeeth">Hadeeth</string>
+    <string name="hadeeth_number">Hadeeth number </string>
+    <string name="al_fatiha">Al fatiha</string>
+    <string name="aya">aya</string>
+    <string name="first_hadeeth">First Hadeeth</string>
+
+
+</resources>

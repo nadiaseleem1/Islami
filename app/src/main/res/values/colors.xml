@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gold">#B7935F</color>
+    <color name="gold_dark">#6C593D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_transparent_70">#B3FFFFFF</color>
+    <color name="black_ish">#191717</color>
+
+    <color name="dark_blue">#141A2E</color>
+    <color name="blue">#1F2A4C</color>
+    <color name="yellow">#FACC1D</color>
+
+    <color name="bottom_nav_item_color">#FF000000</color>
+    <color name="label_color">@color/black</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_40">#66FFFFFF</color>
+    <color name="chapter_name">@color/gold_dark</color>
+    <color name="counter_box_color">#B3B7935F</color>
+    <color name="zekr_color">@color/gold</color>
+
+
+</resources>
