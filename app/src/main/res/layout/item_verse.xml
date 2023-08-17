@@ -12,8 +12,9 @@
         android:fontFamily="@font/decotype_thuluth"
         android:gravity="center"
         android:padding="12dp"
-        android:textColor="@color/black_ish"
+        android:lineSpacingExtra="16sp"
         android:textSize="18sp"
+        android:textColor="@color/content_color"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
 

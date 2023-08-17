@@ -19,6 +19,7 @@
     <color name="chapter_name">@color/gold_dark</color>
     <color name="counter_box_color">#B3B7935F</color>
     <color name="zekr_color">@color/gold</color>
-
+    <color name="card_background_color">@color/white_transparent_70</color>
+    <color name="content_color">@color/black</color>
 
 </resources>
